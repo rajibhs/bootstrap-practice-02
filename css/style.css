@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+
+}
+.box{
+	margin-top: 20px;
+	min-height: 100px;
+	background: red;
+}
